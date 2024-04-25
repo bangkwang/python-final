@@ -20,8 +20,8 @@ The option number should be either 1 or 2. Enter 1 to retrieve player data, or 2
 
 Here's an example of how to run the program:
 
-python IT1009C_FinalProject_AnikethKallam.py -n "Michael Jordan" -o 1
+py PythonProjectIT3038.py -n "Michael Jordan" -o 1
 Displays the raw stats of the player
 
-python IT1009C_FinalProject_AnikethKallam.py -n "Michael Jordan" -o 2
+py PythonProjectIT3038.py -n "Michael Jordan" -o 2
 Displays a graph of the stats over the seasons.
